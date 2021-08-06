@@ -5,7 +5,7 @@
 # Cookids App 
 
 #### Creators: 
-##### Shira Turgeman & Noa Elishmereni & Dorin Domin
+##### Shira Turgeman, Noa Elishmereni And Dorin Domin
 #####  [our GitHub](https://github.com/shiraTurgeman/cookids_app)
 
 ### **Basic information**
