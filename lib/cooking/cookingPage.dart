@@ -8,6 +8,7 @@ import 'package:flutter/material.dart';
 // import 'package:cookids/beforeCooking/bodyCookingPage.dart';
 // import 'package:camera/camera.dart';
 import 'package:cookids/afterCooking/reviewPage.dart';
+import 'package:cookids/CameraDart.dart';
 import '../constants.dart';
 import 'package:cookids/main.dart';
 import 'package:flutter_tts/flutter_tts.dart';
@@ -21,7 +22,7 @@ class CookingPage extends StatefulWidget {
   final String recipeId;
   final String email;
 
-  CookingPage({Key key, @required this.list,@required this.recipeId,@required this.email}):super(key: key);
+  CookingPage({required this.list,required this.recipeId,required this.email}):super();
   @override
   cookiPage createState() => cookiPage();
 }
@@ -29,12 +30,12 @@ class CookingPage extends StatefulWidget {
 class cookiPage extends State<CookingPage> {
   int counter = 0;
   final FlutterTts flutterTts = FlutterTts();
-  String _newVoiceText;
-  String engine;
-  String language;
+  String _newVoiceText = "";
+  String engine = "";
+  String language = "";
   int _hear_counter = 0;
   bool timer_flg = false;
-  Timer _timer;
+  late Timer _timer;
   int seconds = 0;
   int minutes = 0;
   int hours = 0;
@@ -153,7 +154,7 @@ class cookiPage extends State<CookingPage> {
                             Text(desc,
                                 style: Theme.of(context)
                                     .textTheme
-                                    .headline4
+                                    .headline4!
                                     .copyWith(
                                         color: Colors.black,
                                         fontWeight: FontWeight.bold)),
@@ -195,6 +196,9 @@ class cookiPage extends State<CookingPage> {
                                  // ignore: deprecated_member_use
                                  child: FlatButton(
                                    //onPressed: () {hom();},
+                                   onPressed: () {
+                                     Home();
+                                   },
                                    child: Container(
                                      height: 280,
                                      width: 360,
@@ -367,7 +371,7 @@ class cookiPage extends State<CookingPage> {
 
   void changedEnginesDropDownItem(String selectedEngine) {
     flutterTts.setEngine(selectedEngine);
-    language = null;
+    language = "";
     setState(() {
       engine = selectedEngine;
     });
