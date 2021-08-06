@@ -16,8 +16,11 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
 
 ### **Environment and tools**
 * we build this app on Andtoid Studio, while using Flutter. 
-* tools we used:
-  * flutter
+* Tools we used:
+  * Flutter
+  * Tensorflow, OpenCV
+  * MongoDB- saving our database
+  * Python
 
 * Files we used for this project:
    * Fly.txt
