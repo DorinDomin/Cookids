@@ -25,11 +25,16 @@ import 'firstScreen/firstscreen.dart';
 
 import 'package:flutter/services.dart';
 import 'package:mongo_dart/mongo_dart.dart';
+import 'package:camera/camera.dart';
 
 import 'logIn/loginScreen.dart';
+List<CameraDescription>? cameras;
 
-void main() {
+
+void main() async{
   load_recipes();
+  WidgetsFlutterBinding.ensureInitialized();
+  cameras = await availableCameras();
   // check();
   runApp(MultiProvider(
       providers:[ ChangeNotifierProvider<SingleNotifier>(create: (_) => SingleNotifier(),)
