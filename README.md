@@ -31,5 +31,5 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
 ### **how does it work?**
 
 
-#### **spacial notes- for the coures team**
+#### **spacial notes**
 
