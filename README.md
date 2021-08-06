@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://i.pinimg.com/564x/4f/23/0e/4f230ec269c690b4170a06a694b154c8.jpg" width="160" height="160">
+ <img src="https://i.pinimg.com/564x/4f/23/0e/4f230ec269c690b4170a06a694b154c8.jpg" width="200" height="200">
 </p>
 
 # Cookids App 
@@ -18,10 +18,13 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
 * we build this app on Andtoid Studio, while using Flutter. 
 * Tools we used:
   * Flutter
-  * Tensorflow, OpenCV
-  * MongoDB- saving our database
   * Python
+  * Android Stodio
 
+
+  * Tensorflow, OpenCV (Real Time Object Detection)
+  * 
+  * MongoDB (saving our database)
 
    
 ### **how does it work?**
