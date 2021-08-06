@@ -28,7 +28,7 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
   * MongoDB (saving our database)
 
    
-### **how does it work?**
+### **How to run?**
 * download this zip.
 * make sure your working on android studio, with flutter. 
 * add the next libraries:
