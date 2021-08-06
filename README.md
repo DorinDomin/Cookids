@@ -31,7 +31,12 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
 ### **How to run?**
 * download this zip.
 * add the next libraries:
-   * 1
+   * flask==0.12.2
+   * flask_restful==0.3.6
+   * flask_script==2.0.6
+   * flask_migrate==2.1.1
+   * marshmallow==2.14.0
+
 
 ### **Notes:**
 * make sure your working on android studio, with flutter. 
