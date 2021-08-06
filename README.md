@@ -20,10 +20,8 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
   * Flutter
   * Python
   * Android Stodio
-
-
+  * Labling & Jupyter notebook (creating object detection model)
   * Tensorflow, OpenCV (Real Time Object Detection)
-  * 
   * MongoDB (saving our database)
 
    
