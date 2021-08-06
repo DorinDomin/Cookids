@@ -30,11 +30,10 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
    
 ### **How to run?**
 * download this zip.
-* make sure your working on android studio, with flutter. 
 * add the next libraries:
    * 1
-* 
-* 
 
-
+### **Notes:**
+* make sure your working on android studio, with flutter. 
+* you'll have to give premmision for audio and camera, for hand gesture recognition.
 
