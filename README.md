@@ -14,16 +14,10 @@
 * The goal is to encourage people with disabilities and young children to learn hoe to cook, while achiveing confidence and independence. The app is intended for users with low motor ability who are able to perform actions themselves but need adult supervision.
 The goal is to illustrate the cooking visually, step by step, to give the user the option to move on to the next step in the recipe after completing the previous step successfully while giving feedback.
 
-* Our development environment:
-we build this app on Andtoid Studio, while using Flutter. 
-
+### **Environment and tools**
+* we build this app on Andtoid Studio, while using Flutter. 
 * tools we used:
-* 
-* Links we used for this project:
-   * [FlightGear simulator](https://www.flightgear.org/)
-   * the two lines we inserted the flight gear:
-     "--telnet=socket,in,10,127.0.0.1,5402,tcp"
-     "--generic=socket,out,10,127.0.0.1,5400,tcp,generic_small"
+  * flutter
 
 * Files we used for this project:
    * Fly.txt
