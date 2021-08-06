@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://i.pinimg.com/564x/4f/23/0e/4f230ec269c690b4170a06a694b154c8.jpg" width="80" height="80">
+ <img src="https://i.pinimg.com/564x/4f/23/0e/4f230ec269c690b4170a06a694b154c8.jpg" width="160" height="160">
 </p>
 
 # Cookids App 
