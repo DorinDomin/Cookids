@@ -36,4 +36,3 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
 ### **Notes:**
 * make sure your working on android studio, with flutter. 
 * you'll have to give premmision for audio and camera, for hand gesture recognition.
-
