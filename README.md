@@ -41,3 +41,4 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
 ### **Notes:**
 * make sure your working on android studio, with flutter. 
 * you'll have to give premmision for audio and camera, for hand gesture recognition.
+* now the DB is initialized. in order to initialize the DB yourself, you must copy the contanct of folders: recipe image part 1,2,3 into image folder inside resources. also, make sure the file all_recipe.cvs is also inside resources folder.
