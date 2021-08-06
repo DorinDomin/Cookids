@@ -34,7 +34,7 @@ The goal is to illustrate the cooking visually, step by step, to give the user t
    * flask==0.12.2
    * flask_restful==0.3.6
    * flask_script==2.0.6
-   * flask_migrate==2.1.1
+   * flask_migrate==2.1.1 
    * marshmallow==2.14.0
 
 
