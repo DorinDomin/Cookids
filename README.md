@@ -1,16 +1,17 @@
  <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/FlightGear_Logo.svg" width="80" height="80">
+ <img src="https://i.pinimg.com/564x/4f/23/0e/4f230ec269c690b4170a06a694b154c8.jpg" width="80" height="80">
 </p>
 
-# Flight Simulatur 
+# Cookids App 
 
 #### Creators: 
-##### Shira Turgeman & Noa Elishmereni
-#####  [our GitHub](https://github.com/noaElish/ex3)
+##### Shira Turgeman & Noa Elishmereni & Dorin Domin
+#####  [our GitHub](https://github.com/shiraTurgeman/cookids_app)
 
 ### **Basic information**
-* Purpose of this extercise-
-Create code that allows remote control of an aircraft.
+* We wanted to build an app that would be useful and help people. the idea arose of encouraging children and people with disabilities to become independent through the development of cooking skills. We decided to develop the theme and adapt the app for small children as well, among other things in order to provide employment for quality time of parents with their children at home during the Corona period and in general.
+
+We were enthusiastic about the idea and consulted with professionals about the relevance, and checked that there is indeed no answer to this need so far.
 
 * Links we used for this project:
    * [FlightGear simulator](https://www.flightgear.org/)
