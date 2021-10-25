@@ -9,7 +9,7 @@
 ##### Dorin Domin
 ##### Noa Elishmereni 
 
-#####  [our GitHub](https://github.com/shiraTurgeman/cookids_app)
+#####  [our GitHub](https://github.com/DorinDomin/Cookids)
 
 ### **Basic information**
 * We wanted to build an app that would be useful and help people. The idea arose of encouraging children and people with disabilities to become independent through the development of cooking skills. We decided to develop the theme and adapt the app for small children as well, among other things in order to provide employment for quality time of parents with their children at home during the Corona period and in general.
